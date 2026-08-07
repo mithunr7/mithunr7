@@ -1,7 +1,3 @@
-Here is your document with **shorter project briefs** while keeping everything structured and clean:
-
----
-
 # Hi there I'm Mithun
 
 ### AI/ML Engineer • Full-Stack Developer • Distributed Systems Enthusiast
