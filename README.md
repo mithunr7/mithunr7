@@ -1,18 +1,24 @@
-# Hi there I'm Mithun
+# Hey, I'm Mithun
 
-### AI/ML Engineer • Full-Stack Developer • Distributed Systems Enthusiast
+### AI/ML Engineer \| Full-Stack Developer \| Distributed Systems Enthusiast
 
-I'm a Computer Science student who enjoys building systems that combine **machine learning**, **distributed computing**, and **software engineering**. I like taking ideas from research papers or real-world problems and turning them into practical, production-style applications.
+I'm a Computer Science student at PES University who enjoys building
+systems at the intersection of **machine learning, backend engineering,
+and distributed computing**.
 
-My interests include:
+I like taking ideas from research papers and real-world problems and
+turning them into practical applications---from recommendation systems
+and neuro-symbolic AI to full-stack apps and developer tooling.
 
-* Machine Learning & Generative AI
-* Distributed Systems & Event-Driven Architecture
-* Full-Stack Web Development
-* Applied AI Research
-* Backend Engineering
+-   Currently exploring AI/ML, backend systems, and distributed
+    architecture
+-   Interested in applied AI research and intelligent systems
+-   Enjoy building projects across the stack, from APIs and databases to
+    frontend interfaces
+-   Head of Operations at the Nexus AWS Cloud Champ Club
+-   Software Engineering Teaching Assistant
 
----
+------------------------------------------------------------------------
 
 ## Featured Projects
 
@@ -20,148 +26,177 @@ My interests include:
 
 **Cold-start music recommendation using audio embeddings**
 
-Maps raw audio features into collaborative filtering space to recommend unseen songs.
+A teacher--student recommendation system that maps audio embeddings into
+collaborative filtering space to recommend tracks with limited
+interaction history.
 
-**Highlights**
+-   Teacher--student neural architecture
+-   BPR-based recommendation objective
+-   Evaluated across 5M+ user interactions and 109K tracks
+-   Multi-seed experiments and statistical evaluation
 
-* Teacher–Student architecture
-* BPR loss
-* Cold-start recommendation
-* Statistical evaluation
-* PyTorch pipeline
+**Tech:** Python \| PyTorch \| FastAPI
 
-**Tech:** PyTorch • Python • ML
+------------------------------------------------------------------------
 
----
+### Explainable & Adaptive Intrusion Detection
 
-### Explainable & Adaptive Intrusion Detection using Neuro-Symbolic AI
+**Neuro-symbolic AI for interpretable cybersecurity**
 
-Hybrid neural-symbolic system for interpretable and adaptive intrusion detection.
+A hybrid intrusion detection system combining neural predictions with
+symbolic reasoning to improve explainability and adaptability.
 
-**Focus Areas**
+-   1D CNN-based intrusion detection
+-   CIC-IDS2017 dataset
+-   Predicate knowledge graph
+-   Hybrid Logic Tensor Network reasoning
 
-* Neuro-symbolic AI
-* Explainable AI
-* Cybersecurity
+**Tech:** Python \| PyTorch \| TensorFlow \| Neuro-Symbolic AI
 
----
+------------------------------------------------------------------------
+
+### NETQA --- Network Testing & Monitoring
+
+**Automated network validation and diagnostics**
+
+A Python-based testing framework for validating network KPIs across
+different environments and identifying failures through controlled fault
+injection.
+
+-   Automated validation of six network KPIs
+-   Configurable thresholds
+-   Fault injection for baseline and failure scenarios
+-   Deterministic diagnostics and telemetry dashboard
+
+**Tech:** Python \| pytest \| SQLite \| Flask
+
+------------------------------------------------------------------------
+
+### PROMETHEUS --- Prompt Evolution Engine
+
+**Evolutionary optimization for LLM prompts**
+
+An optimization engine that evolves prompts using genetic-style search
+and iterative feedback.
+
+-   Prompt mutation and selection
+-   Reflection-driven optimization
+-   Memory-guided search
+
+**Tech:** Python \| FastAPI \| OpenAI API
+
+------------------------------------------------------------------------
 
 ### PaletteForge AI
 
-AI tool that generates designer-grade color palettes from creative intent.
+**AI-powered color palette generation**
 
-**Features**
+A creative tool that generates color palettes based on user intent and
+design context.
 
-* AI palette generation
-* Color psychology insights
-* Figma export
-* WCAG contrast checks
+-   AI-assisted palette generation
+-   Color psychology insights
+-   Figma export
+-   WCAG contrast checks
 
-**Tech:** Next.js • TypeScript • Tailwind CSS
+**Tech:** Next.js \| TypeScript \| Tailwind CSS
 
----
-
-### PROMETHEUS — Prompt Evolution Engine
-
-Evolutionary system for optimizing LLM prompts using genetic-style search.
-
-**Core Ideas**
-
-* Prompt mutation & selection
-* Reflection loop
-* Memory-guided optimization
-
-**Tech:** Python • FastAPI • OpenAI API
-
----
+------------------------------------------------------------------------
 
 ### Distributed Image Processing Pipeline
 
-Kafka-based system for parallel image processing using worker nodes.
+**Kafka-based parallel image processing**
 
-**Highlights**
+A distributed master-worker system that splits images into tiles and
+processes them across worker nodes.
 
-* Producer–consumer model
-* Image tiling
-* Parallel processing
-* Worker orchestration
+-   Producer--consumer architecture
+-   Kafka-based task distribution
+-   Parallel image processing
+-   Worker orchestration
 
-**Tech:** Kafka • Python • Flask
+**Tech:** Apache Kafka \| Python \| Flask \| Spring Boot
 
----
+------------------------------------------------------------------------
 
 ### Neobrutalist Habit Tracker
 
-Habit tracking app with a Go-based analytics engine for streak analysis.
+**Full-stack habit tracking with analytics**
 
-**Tech:** PHP • Go • MySQL
+A habit tracking application with a Go-based analytics engine for streak
+and progress analysis.
 
----
+-   Session-based authentication
+-   Transactional database operations
+-   Habit tracking and streak analysis
+
+**Tech:** Go \| PHP \| MySQL \| Tailwind CSS
+
+------------------------------------------------------------------------
 
 ### SkillShare
 
-Mentorship platform for booking sessions, feedback, and skill exchange.
+**Mentorship and skill-exchange platform**
 
-**Tech:** Spring Boot • Java • MySQL
+A platform for booking mentorship sessions, exchanging feedback, and
+sharing skills.
 
----
+**Tech:** Java \| Spring Boot \| MySQL
 
-### Canteen Ordering & Billing System
-
-Food ordering system with authentication, orders, payments, and admin dashboard.
-
-**Tech:** Flask • Python • MySQL
-
----
+------------------------------------------------------------------------
 
 ## Tech Stack
 
 ### Languages
 
-`Python` • `Java` • `Go` • `JavaScript` • `TypeScript` • `PHP` • `SQL`
+`Python` `Java` `Go` `JavaScript` `TypeScript` `PHP` `SQL` `C`
 
-### AI / ML
+### AI / Machine Learning
 
-`PyTorch` • `Generative AI` • `Prompt Engineering` • `Neuro-Symbolic AI`
+`PyTorch` `TensorFlow` `Deep Learning` `Generative AI`
+`Recommendation Systems` `Neuro-Symbolic AI`
 
-### Backend
+### Backend & APIs
 
-`Spring Boot` • `FastAPI` • `Flask`
+`FastAPI` `Flask` `Spring Boot` `REST APIs`
 
 ### Frontend
 
-`React` • `Next.js` • `Tailwind CSS`
+`React` `Next.js` `TypeScript` `Tailwind CSS`
 
 ### Databases
 
-`MySQL` • `SQLite`
+`MySQL` `SQLite`
 
 ### Distributed Systems
 
-`Apache Kafka` • `Event-Driven Systems`
+`Apache Kafka` `Event-Driven Architecture` `Distributed Processing`
 
-### Tools
+### Tools & Engineering
 
-`Git` • `Docker (Learning)` • `Linux`
+`Git` `pytest` `CI/CD` `Code Reviews` `Docker (Learning)` `Linux`
 
----
+------------------------------------------------------------------------
 
-## What I'm Currently Interested In
+## Currently Exploring
 
-* Retrieval-Augmented Generation (RAG)
-* Agentic AI Systems
-* Recommendation Systems
-* Large Language Models
-* Distributed ML Systems
-* AI Infrastructure
+-   Retrieval-Augmented Generation (RAG)
+-   Agentic AI systems
+-   Large Language Models
+-   Recommendation systems
+-   Distributed ML systems
+-   AI infrastructure and model serving
+-   Developer tooling and software quality
 
----
+------------------------------------------------------------------------
 
 ## Connect
 
-* LinkedIn: [www.linkedin.com/in/mithunr1406](http://www.linkedin.com/in/mithunr1406)
-* Email: *[mithun10c.chs@gmail.com](mailto:mithun10c.chs@gmail.com)*
+-   LinkedIn:
+    [linkedin.com/in/mithunr1406](https://www.linkedin.com/in/mithunr1406)
+-   Email: <mithun10c.chs@gmail.com>
 
----
+------------------------------------------------------------------------
 
-> *"Building intelligent systems that are not only accurate, but also scalable, interpretable, and useful."*
+> Building intelligent systems that are accurate, scalable,
+> interpretable, and useful.
